@@ -1,0 +1,22 @@
+{
+  "name": "aes-encryption",
+  "version": "1.0.0",
+  "description": "Encrypt data with AES-256 CBC IV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://niharrs@github.com/niharrs/aes-js.git"
+  },
+  "author": "Niharika",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niharrs/aes-js/issues"
+  },
+  "homepage": "https://github.com/niharrs/aes-js#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
